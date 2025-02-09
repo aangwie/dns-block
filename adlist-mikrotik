@@ -10603,3 +10603,34 @@
 
 # [zynga.com]
 0.0.0.0 log-collector.svctr.zynga.com
+
+# [ads.by.aang]
+0.0.0.0 mp.4dex.io
+0.0.0.0 script.4dex.io
+0.0.0.0 acdn.adnxs.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 grid-bidder.criteo.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 td.doubleclick.net
+0.0.0.0 wrappers.geoedge.be
+0.0.0.0 g2.gumgum.com
+0.0.0.0 js-sec.indexww.com
+0.0.0.0 navvy.media.net
+0.0.0.0 prebid.media.net
+0.0.0.0 jsc.mgid.com
+0.0.0.0 onetag-sys.com
+0.0.0.0 rtb.openx.net
+0.0.0.0 u.openx.net
+0.0.0.0 ms-cookie-sync.presage.io
+0.0.0.0 mweb-hb.presage.io
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 go.rcvlink.com
+0.0.0.0 s.ad.smaato.net
+0.0.0.0 prebid.ad.smaato.net
+0.0.0.0 prg-apac.smartadserver.com
+
+
